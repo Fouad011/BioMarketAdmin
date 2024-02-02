@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_light">#5973FF</color>
+    <color name="purble">#950532</color>
+    <color name="pink">#FF00C0</color>
+    <color name="primary_green">#3CB371</color>
+    <color name="primary_blue">#1E90FF</color>
+    <color name="tomato">#ff6347</color>
+    <color name="grey">#808080</color>
+    <color name="light_grey">#EAEAEA</color>
+    <color name="light">#f5f5f7</color>
+
+
+
+
+</resources>

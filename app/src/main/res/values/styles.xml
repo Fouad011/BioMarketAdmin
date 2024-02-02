@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PrimaryActionBarTheme" parent="Theme.AppCompat.Light">
+        <item name="android:actionBarSize">40dp</item>
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorPrimaryDark">@color/primary_blue</item>
+        <item name="colorSecondary">@color/primary_green</item>
+    </style>
+
+</resources>

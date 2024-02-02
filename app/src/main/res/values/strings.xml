@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BMAdmin</string>
+    <string name="admin_space">admin space</string>
+    <string name="products_space">Products space</string>
+    <string name="space">" "</string>
+    <string name="name">Name :</string>
+    <string name="in_store">In Store...</string>
+    <string name="shampooing_solide_2_en_1_huile_de_coco_bio_60g">shampooing solide 2 en 1 huile de coco bio 60g</string>
+    <string name="edit_product">Edit product</string>
+    <string name="title_of_this_product_title_of_this_product">title of this product title of this product</string>
+    <string name="delivery_name">Delivery name</string>
+    <string name="online">Online</string>
+    <string name="disponible">Disponible</string>
+    <string name="available">Available</string>
+    <string name="todo">TODO</string>
+    <string name="visibility">Visibility</string>
+    <string name="in_store_1">In Store</string>
+    <string name="add">Add</string>
+    <string name="insert_image">Insert image...</string>
+    <string name="edit">Edit</string>
+</resources>
